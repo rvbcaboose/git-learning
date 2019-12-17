@@ -1,6 +1,6 @@
 This is for git learning..
 
-# The participants are
+# The participants are just
  - Maggie Sheeran
  - Jack Kohn
  - Bartee Natarajan
